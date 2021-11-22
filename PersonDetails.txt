@@ -1,0 +1,7 @@
+My Details are:-
+Name = Akhila
+Age = 20
+Address = Mysuru,Karnataka
+Education = B.E in Information Science and Engineering
+Mother's Name = Sunitha
+Father's Name = Muralidhara.K.P
