@@ -1,9 +1,0 @@
-Patient Records in Moorfields Eye Hospital.
-23 October 2020,Jessica,25,Female,Allergy,EyeDrops
-13 October 2020,Sharon,51,Female,Cataract,Lasic Surgery
-03 August 2019,Allison,19,Male,Presbyopia,Reading Glasses
-15 August 2019,Jacob,27,Male,Conjuctivitis,EyeDrops
-02 July 2018,Laura,35,Female,Ptergyium,EyeDrops
-10 July 2018,Michael,55,Male,Refractive Error,Distance Glasses
-09 March 2017,Scott,35,Male,Cataract,Eye Surgery
-25 January 2016,Mary,66,Female,Diabetic Retinopathy,Insulin and Diet
